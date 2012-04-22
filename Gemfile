@@ -9,7 +9,8 @@ group :development do
   gem 'sqlite3', '1.3.5'
 end
 
-gem 'pg', '0.10.0'
+gem 'pg'
+#gem 'activerecord-postgresql-adapter'
 
 gem 'carrierwave'
 
