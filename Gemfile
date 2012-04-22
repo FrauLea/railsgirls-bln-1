@@ -9,6 +9,8 @@ group :development do
   gem 'sqlite3', '1.3.5'
 end
 
+gem 'pg', '0.10.0'
+
 gem 'carrierwave'
 
 # Gems used only for assets and not required
